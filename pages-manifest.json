@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "canonicalDomain": "account.project-42.dev",
+  "htmlRoutes": [
+    "/account",
+    "/account/github/callback"
+  ],
+  "endpoints": []
+}
